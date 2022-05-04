@@ -1,1 +1,1 @@
-# Thumbsup-thumbsdown-app
+# hand-gesture-application
